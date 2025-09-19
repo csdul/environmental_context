@@ -3,7 +3,5 @@ During the past decade, [**CANUE**](https://canuedata.ca/) has been working to p
 
 ## List of Indicators
 
-## Files 
-
 ## References
 [^1]: Östlin P, Schrecker T, Sadana R, et al. Priorities for research on equity and health: towards an equity-focused health research agenda. PLoS Med . 2011;8(11):e1001115. 
